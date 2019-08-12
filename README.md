@@ -1,5 +1,5 @@
 # League-para-Surdos ☑
-# Projeto da disciplina linguagem de marcação 2019.1 
+# Projeto da L.M. 2019.1 
 
 ◤Descrição do projeto◥
 
